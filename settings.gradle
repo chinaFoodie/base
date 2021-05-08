@@ -1,3 +1,3 @@
+include ':demo'
 include ':base'
-include ':app'
 rootProject.name = "commonets"

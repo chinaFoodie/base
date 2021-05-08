@@ -1,4 +1,4 @@
-package com.fucob.commonets;
+package com.fucob.demo;
 
 import androidx.appcompat.app.AppCompatActivity;
 import android.os.Bundle;

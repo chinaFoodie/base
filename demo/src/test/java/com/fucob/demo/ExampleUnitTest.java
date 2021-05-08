@@ -1,4 +1,4 @@
-package com.fucob.commonets;
+package com.fucob.demo;
 
 import org.junit.Test;
 
